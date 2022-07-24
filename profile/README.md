@@ -1,4 +1,4 @@
-## Hi there, we are IT for you 👋
+## Hi there, we build IT for you 👋
 
 🙋‍♀️ We are a small software agency located in Frankfurt/Main, Germany. We develop professional websites, shops, community pages and any sort of web-based applications and plugins. Most importantly, we appreciate the art of hand-crafting native full stack applications using our favorite technologies.
 
