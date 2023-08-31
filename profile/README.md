@@ -1,6 +1,6 @@
 ## Hi there, we build IT for you 👋
 
-🙋‍♀️ We are a small software agency located in Frankfurt/Main, Germany. We develop professional websites, shops, community pages and any sort of web-based applications and plugins. Most importantly, we appreciate the art of hand-crafting native full stack applications using our favorite technologies.
+🙋‍♀️ We are a small software agency located near Frankfurt/Main, Germany. We develop professional websites, shops, community pages and any sort of web-based applications and plugins. Most importantly, we appreciate the art of hand-crafting native full stack applications using our favorite technologies.
 
 🌈 Not only are we diverse in gender, we use a wide array of different tools to efficiently manage the work we do. Some of our favorites include:
 - Any JetBrains IDE to unleash our programming talent (thank god for their incredible features)
