@@ -28,7 +28,7 @@
   
 If we need to, we will also automate tedious MS Office processes using Visual Basic.
 
-🎉 Quick fact: Having been founded on October 17th, 2017, we happily await our 5-year anniversary! Party with us!
+🎉 Quick fact: Having been founded on October 17th, 2017, we happily await our next anniversary in October! Party with us!
 
 🤝 Let's talk! Swing by our website [https://it-for-you.com](https://it-for-you.com), connect with us on [LinkedIn](https://linkedin.com/company/it-for-you/) and check out our [Instagram](https://www.instagram.com/it.for.you/).
 
